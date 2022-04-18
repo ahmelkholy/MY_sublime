@@ -1,0 +1,21 @@
+[
+    {"keys": ["ctrl+keypad0"], "command": "distraction_free_window"},
+ 
+        // Generate function documentation
+    {
+        "keys": ["ctrl+keypad7"], "command": "generate_auto_matlab_documentation",
+        "context": 
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.matlab" },
+        ],
+    },
+        // Open Matlab command panel
+    {
+        "keys": ["ctrl+keypad8"], 
+        "command": "open_auto_matlab_command_panel",
+        "context": 
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.matlab" },
+        ],
+    },
+]

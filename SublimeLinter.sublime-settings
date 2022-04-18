@@ -1,0 +1,8 @@
+// SublimeLinter Settings - User
+{
+    "paths": {
+    "linux": [],
+    "osx": [],
+    "windows": ["C:/Program Files/Polyspace/R2021a/bin/win64/mlint.exe"],
+	}
+}
