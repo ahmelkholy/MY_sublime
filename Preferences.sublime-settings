@@ -6,7 +6,7 @@
 	[
 		"Vintage",
                   "Markdown",
-         ],  
+       ],  
 	"auto_complete_triggers":
     [
     {
@@ -17,7 +17,7 @@
    "characters": "\\",
    "selector": "text.tex.latex",
   }
-         ],
+       ],
  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
  "default_line_ending": "unix",
  "open_externally_patterns":
@@ -28,12 +28,13 @@
   "*.gif",
   "*.zip",
   "*.pdf"
-         ],
+       ],
  "rulers":
  [
   100
-         ],
+       ],
  "tab_size": 4,
  "translate_tabs_to_spaces": true,  
           "font_size": 8,
+"auto_complete_commit_on_tab": true,
 }
