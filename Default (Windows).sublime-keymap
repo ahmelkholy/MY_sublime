@@ -1,5 +1,5 @@
 [
-    {"keys": ["ctrl+keypad0"], "command": "distraction_free_window"},
+    {"keys": ["f11"], "command": "distraction_free_window"},
  
         // Generate function documentation
     {

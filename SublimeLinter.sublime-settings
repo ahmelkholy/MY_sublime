@@ -3,6 +3,6 @@
     "paths": {
     "linux": [],
     "osx": [],
-    "windows": ["C:/Program Files/Polyspace/R2021a/bin/win64/mlint.exe"],
+    "windows": ["C:/Program Files/MATLAB/R2022a/bin/win64/mlint.exe"],
 	}
 }
